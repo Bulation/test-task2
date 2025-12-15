@@ -7,6 +7,6 @@
 
 ## Для локальной разработки
 
-1. Клонируем репозиторий проекта `git clone git@github.com:Bulation/qtim-test-task.git`.
+1. Клонируем репозиторий проекта `git clone git@github.com:Bulation/test-task2.git`.
 2. Переходим в директорию проекта `cd ./frontend`.
 3. В директории фронтенда выполняем установку зависимостей и запускаем проект (подробнее см. [здесь](frontend/README.md)).
