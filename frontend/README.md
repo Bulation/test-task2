@@ -1,4 +1,4 @@
-# QTIM test task
+# test task
 
 **Framework:** [Nuxt 3](https://nuxt.com/)
 
